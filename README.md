@@ -35,4 +35,4 @@ Collabsy is just the beginning of our journey towards transforming remote collab
 
 * Building Strong Partnerships: Collaborating with educational institutions, non-profit organizations, and technology partners, we seek to establish a strong network to support the adoption and impact of Collabsy globally.
 
-* Collabsy is not just a collaboration platform;
+
